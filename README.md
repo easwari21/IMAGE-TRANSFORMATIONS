@@ -28,8 +28,8 @@ Use cv2.warpPerspective(image,M,(cols2,rows2)) to scale the image
 
 ## Program:
 
-## Developed By:AJINA JOSHPIN 
-## Register Number:212223230008
+## Developed By: Easwari M
+## Register Number:212223240033
 
 i)Image Translation
 ```
